@@ -1,2 +1,2 @@
 this is intro file.
-this is new contro
+This is my First repository
